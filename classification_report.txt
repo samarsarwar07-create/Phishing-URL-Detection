@@ -1,0 +1,10 @@
+Accuracy: 0.9756 (97.56%)
+
+              precision    recall  f1-score   support
+
+    Phishing       0.98      0.97      0.97       980
+  Legitimate       0.97      0.98      0.98      1231
+
+    accuracy                           0.98      2211
+   macro avg       0.98      0.97      0.98      2211
+weighted avg       0.98      0.98      0.98      2211
